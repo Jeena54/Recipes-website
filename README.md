@@ -41,7 +41,7 @@ We have exciting plans for the future of this project, including:
 * **Admin Panel**: Adding an admin site to facilitate CRUD operations through a user-friendly interface.
 
 ## License
-This project is licensed under the Natsasion License - see the [LICENSE.md](LICENSE) file for details.
+This project is licensed under the License - see the [LICENSE.md](LICENSE) file for details.
 
 ## Get Started
 Feel free to explore the live website for a firsthand experience of the Thai recipe website!
@@ -49,6 +49,6 @@ Feel free to explore the live website for a firsthand experience of the Thai rec
 For more details, visit the [Live website](http://thairecipesweb.rf.gd/index.php).
 
 ## Contact
-If you have any questions or feedback, please don't hesitate to reach out to me at [natsasion.sri@gmail.com](mailto:natsasion.sri@gmail.com).
+If you have any questions or feedback, please don't hesitate to reach out to me at 
 
 Enjoy exploring the world of Thai cuisine with our recipe website!
